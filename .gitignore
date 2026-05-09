@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+*.swp
+
+# Swift / SPM
+.build/
+.swiftpm/
+Package.resolved
+*.xcodeproj
+*.xcworkspace
+
+# Built app bundle
+WakeySync.app/
+*.dmg
+*.zip
+
+# Local tooling
+.claude/settings.local.json
+.vscode/
+.idea/
+
+# Logs
+*.log

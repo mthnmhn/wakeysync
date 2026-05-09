@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleIdentifier</key>
+    <string>dev.wakeysync.app</string>
+    <key>CFBundleExecutable</key>
+    <string>wakeyctl</string>
+    <key>CFBundleIconFile</key>
+    <string>AppIcon</string>
+    <key>CFBundleName</key>
+    <string>WakeySync</string>
+    <key>CFBundleDisplayName</key>
+    <string>WakeySync</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>CFBundleShortVersionString</key>
+    <string>0.1.0</string>
+    <key>NSBluetoothAlwaysUsageDescription</key>
+	<string>WakeySync uses Bluetooth to find your Soundcore Wakey and sync its displayed time from your Mac.</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>WakeySync uses Bluetooth to find your Soundcore Wakey and sync its displayed time from your Mac.</string>
+    <key>NSPrincipalClass</key>
+    <string>NSApplication</string>
+    <key>WSUmamiEndpoint</key>
+    <string>https://umami.mthnmhn.com</string>
+    <key>WSUmamiWebsiteId</key>
+    <string>c7528b29-a7e4-46ee-bac4-a17c0420fcc6</string>
+    <key>WSUmamiHostname</key>
+    <string>wakeysync.app</string>
+</dict>
+</plist>
