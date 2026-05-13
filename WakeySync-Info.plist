@@ -25,7 +25,7 @@
     <key>NSPrincipalClass</key>
     <string>NSApplication</string>
     <key>WSUmamiEndpoint</key>
-    <string>https://umami.mthnmhn.com</string>
+    <string>https://stats.mthnmhn.com</string>
     <key>WSUmamiWebsiteId</key>
     <string>c7528b29-a7e4-46ee-bac4-a17c0420fcc6</string>
     <key>WSUmamiHostname</key>
