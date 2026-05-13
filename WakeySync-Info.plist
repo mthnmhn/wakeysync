@@ -15,9 +15,9 @@
     <key>CFBundlePackageType</key>
     <string>APPL</string>
     <key>CFBundleVersion</key>
-    <string>1</string>
+    <string>2</string>
     <key>CFBundleShortVersionString</key>
-    <string>0.1.0</string>
+    <string>0.1.1</string>
     <key>NSBluetoothAlwaysUsageDescription</key>
 	<string>WakeySync uses Bluetooth to find your Soundcore Wakey and sync its displayed time from your Mac.</string>
 	<key>NSBluetoothPeripheralUsageDescription</key>
